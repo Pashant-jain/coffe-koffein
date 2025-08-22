@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="90px" viewBox="0 0 90 90" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Green meals</title>
+    <g id="Green-meals" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="icons-05-copy" transform="translate(6.000000, 10.000000)" stroke="#FFFFFF">
+            <path d="M0,69.5660508 C3.05455904,62.6944719 11.4671151,46.071314 30.245142,33.9955245 C41.3116592,26.9218403 53.9304933,22.6271034 67,21.5660508" id="Path" stroke-width="1.8"></path>
+            <ellipse id="Oval" stroke-width="1.7999464" transform="translate(48.183095, 25.828119) rotate(-26.629112) translate(-48.183095, -25.828119) " cx="48.1830946" cy="25.8281188" rx="26.5228915" ry="15.5943503"></ellipse>
+            <ellipse id="Oval" stroke-width="1.79997366" fill="#FF6500" fill-rule="nonzero" stroke-linejoin="round" transform="translate(30.889580, 58.243223) rotate(-2.790041) translate(-30.889580, -58.243223) " cx="30.8895804" cy="58.2432229" rx="8.52251684" ry="5.03781922"></ellipse>
+            <path d="M0,70.5660508 C2.65131579,67.7130983 8.76973684,61.9034495 18.4572368,59.5692156 C22.5361842,58.5836502 26.8190789,58.3242909 31,58.7911377" id="Path" stroke-width="1.8"></path>
+            <path d="M50,14.5660508 C47.6533333,18.1235729 46.2666667,22.2651659 46,26.5660508" id="Path" stroke-width="1.8"></path>
+            <path d="M29,60.5660508 C28.8,60.0566169 28.55,59.6037867 28.25,59.1509565 C27.9,58.5849187 27.45,58.0754848 27,57.5660508" id="Path" stroke-width="1.2"></path>
+            <path d="M36,30.5692498 C39.4740741,30.5192818 44.9185185,31.0189619 49.0148148,34.6166586 C49.3777778,34.9164667 49.6888889,35.2162747 50,35.5660508" id="Path" stroke-width="1.8"></path>
+        </g>
+    </g>
+</svg>
